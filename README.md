@@ -1,2 +1,14 @@
-# MERN-stack-project-with-user-authentication
-Login and dashboard app built with MERN stack  Authentication system using React, Node.js, Express, and MongoDB  MERN app with protected routes and admin dashboard
+mern-assignment/
+│
+├── client/        # React frontend (Vite/React)
+│   ├── src/
+│   ├── package.json
+│   └── vite.config.js
+│
+├── server/        # Node.js/Express backend
+│   ├── src/
+│   ├── package.json
+│   └── .env.example   # not real secrets, just placeholders
+│
+├── .gitignore
+├── README.md
